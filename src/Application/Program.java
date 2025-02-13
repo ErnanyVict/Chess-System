@@ -1,5 +1,4 @@
 package Application;
-import boardgame.Board;
 import chess.ChessMatch;
 
 public class Program {
