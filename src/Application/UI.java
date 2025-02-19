@@ -61,9 +61,6 @@ public class UI {
 		if (chessMatch.getCheck()) {
 			System.out.println("CHECK!");
 		}
-		else {
-			System.out.println(chessMatch.getCheck());
-		}
 	}
 	
 	public static void printBoard(ChessPiece[][] pieces) {
